@@ -20,7 +20,7 @@
     "url": "git://github.com/kapouer/fullcalendar-browser.git"
   },
   "dependencies": {
-    "jquery-browser": "1.8.x",
-    "jqueryui-browser": "1.9.x"
+    "jquery-browser": "1.8.2-1",
+    "jqueryui-browser": "1.9.1-1"
   }
 }
